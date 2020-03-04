@@ -1,0 +1,15 @@
+2020-Mar-04 18:59:04 PM [main] INFO  com.javaLive.SpringBootSlf4JAndLog4J2DemoApplication - Starting SpringBootSlf4JAndLog4J2DemoApplication on DELL with PID 12104 (E:\Prashant\Java\JavaLive\AllNewWorkspace\SpringBootSLF4JAndLog4J2Demo\target\classes started by Administrator in E:\Prashant\Java\JavaLive\AllNewWorkspace\SpringBootSLF4JAndLog4J2Demo)
+2020-Mar-04 18:59:04 PM [main] INFO  com.javaLive.SpringBootSlf4JAndLog4J2DemoApplication - No active profile set, falling back to default profiles: default
+2020-Mar-04 18:59:07 PM [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2020-Mar-04 18:59:07 PM [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2020-Mar-04 18:59:07 PM [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-Mar-04 18:59:07 PM [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.31]
+2020-Mar-04 18:59:07 PM [main] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-Mar-04 18:59:07 PM [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 2481 ms
+2020-Mar-04 18:59:07 PM [main] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-Mar-04 18:59:08 PM [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2020-Mar-04 18:59:08 PM [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2020-Mar-04 18:59:08 PM [main] INFO  com.javaLive.SpringBootSlf4JAndLog4J2DemoApplication - Started SpringBootSlf4JAndLog4J2DemoApplication in 5.008 seconds (JVM running for 7.58)
+2020-Mar-04 18:59:08 PM [main] INFO  com.javaLive.beans.MyBean - This is Info level log message from Mybean component.
+2020-Mar-04 18:59:27 PM [RMI TCP Connection(2)-127.0.0.1] INFO  org.springframework.boot.admin.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin - Application shutdown requested.
+2020-Mar-04 18:59:27 PM [RMI TCP Connection(2)-127.0.0.1] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
